@@ -77,3 +77,19 @@
     color: white;
     border-radius: 10px;
 }
+
+.horloge {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+
+}
+
+.date {
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-top: 10px;
+    color: black;
+}
